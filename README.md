@@ -1,4 +1,4 @@
-## Hi, I'm Eskezeia Y. Dessie (Eskezeia)
+## Hi, I'm Eskezeia Dessie (Eskezeia)
 
 I am a Computational Biologist, Bioinformatician, and Biostatistician currently based at Indiana University School of Medicine, USA. My research focuses on statistical genetics, multi-omics integration, machine learning, and precision medicine.
 
