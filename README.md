@@ -2,7 +2,7 @@
 
 I am a Computational Biologist, Bioinformatician, and Biostatistician currently based at Indiana University School of Medicine, USA. My research focuses on statistical genetics, multi-omics integration, machine learning, and precision medicine.
 
-My main interests include genomics, epigenomics, DNA methylation, eQTM and mQTL analysis, biomarker discovery, causal inference, and translational bioinformatics, particularly in asthma, allergy, and other complex diseases.
+My main interests include genomics, epigenomics, DNA methylation, eQTM and mQTL analysis, biomarker discovery, causal inference, and translational bioinformatics, particularly in asthma, allergy, cancer, and other complex diseases.
 
 You can find more information about my research, publications, and academic activities on Google Scholar and LinkedIn.
 
