@@ -10,7 +10,7 @@ My repositories represent current and past contributions in bioinformatics, bios
 
 If you have questions about my work, would like to discuss collaborations, or cannot find a project I contributed to, feel free to contact me.
 
-📧 Email: estu2003@gmail.com
+📧 Email: estu2003[at]gmail.com/edessie[at]iu.edu
 
 🔗 LinkedIn: https://www.linkedin.com/in/eskezeiadessie/
 
