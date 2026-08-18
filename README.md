@@ -12,8 +12,3 @@ If you are interested in collaboration or have questions about my work, feel fre
 
 📧 **Email:** estu2003@gmail.com | edessie@iu.edu
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/eskezeiadessie/
-
-🔗 **Google Scholar:** https://scholar.google.com/citations?user=NHxBY1EAAAAJ&hl=en
-
-🔗 **GitHub:** https://github.com/Eskezeia
