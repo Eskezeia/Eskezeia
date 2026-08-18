@@ -1,58 +1,19 @@
+## Hi, I'm Eskezeia Y. Dessie (Eskezeia)
 
-# Hi, I'm Eskezeia Y. Dessie 👋
+I am a Computational Biologist, Bioinformatician, and Biostatistician currently based at Indiana University School of Medicine, USA. My research focuses on statistical genetics, multi-omics integration, machine learning, and precision medicine.
 
-## Computational Biologist | Bioinformatician | Biostatistician
+My main interests include genomics, epigenomics, DNA methylation, eQTM and mQTL analysis, biomarker discovery, causal inference, and translational bioinformatics, particularly in asthma, allergy, and other complex diseases.
 
-I am a computational biologist, bioinformatician, and biostatistician with over 10 years of experience in genomics, epigenomics, multi-omics integration, statistical modeling, machine learning, and precision medicine.
+You can find more information about my research, publications, and academic activities on Google Scholar and LinkedIn.
 
-Currently, I am a Postdoctoral Fellow at Indiana University School of Medicine, where I conduct NIH-funded research focused on asthma, allergy, and complex human diseases.
+My repositories represent current and past contributions in bioinformatics, biostatistics, genomics, multi-omics analysis, machine learning, and clinical research that I am able to share publicly.
 
-## Research Interests
+If you have questions about my work, would like to discuss collaborations, or cannot find a project I contributed to, feel free to contact me.
 
-- Multi-omics Integration
-- Statistical Genetics
-- Computational Genomics
-- DNA Methylation and Epigenomics
-- eQTM and mQTL Analysis
-- Machine Learning and Explainable AI
-- Causal Inference
-- Precision Medicine
-- Asthma and Allergy Research
+📧 Email: estu2003@gmail.com
 
-## Technical Skills
+🔗 LinkedIn: https://www.linkedin.com/in/eskezeiadessie/
 
-### Programming
-- R
-- Python
-- SQL
-- SAS
-- Linux/HPC
+🔗 Google Scholar: https://scholar.google.com/citations?user=NHxBY1EAAAAJ&hl=en.
 
-### Bioinformatics
-- DNA Methylation Analysis
-- RNA-seq Analysis
-- eQTM Analysis
-- mQTL Analysis
-- WGCNA
-- Multi-omics Integration
-
-### Statistics
-- Mixed Effects Models
-- Longitudinal Data Analysis
-- Survival Analysis
-- Mediation Analysis
-- Propensity Score Methods
-- Machine Learning
-
-## Featured Projects
-
-- eQTMFusion
-- traceAsthma
-- Asthma Severity Project
-- Asthma Risk Prediction Model
-- Multi-omics Integration Study
-
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/eskezeiadessie/
-- GitHub: https://github.com/Eskezeia
+🔗 GitHub: https://github.com/Eskezeia
