@@ -1,7 +1,5 @@
 # Hi, I'm Eskezeia Y. Dessie 👋
 
-### Computational Biologist | Bioinformatician | Biostatistician
-
 I am a Computational Biologist, Bioinformatician, and Biostatistician at Indiana University School of Medicine. My research focuses on statistical genetics, multi-omics integration, machine learning, and precision medicine.
 
 My interests include genomics, epigenomics, DNA methylation, eQTM and mQTL analysis, biomarker discovery, causal inference, and translational bioinformatics, with applications in asthma, allergy, cancer, and other complex diseases.
