@@ -1,19 +1,21 @@
-## Hi, I'm Eskezeia Dessie (Eskezeia)
+# Hi, I'm Eskezeia Y. Dessie 👋
 
-I am a Computational Biologist, Bioinformatician, and Biostatistician currently based at Indiana University School of Medicine, USA. My research focuses on statistical genetics, multi-omics integration, machine learning, and precision medicine.
+### Computational Biologist | Bioinformatician | Biostatistician
 
-My main interests include genomics, epigenomics, DNA methylation, eQTM and mQTL analysis, biomarker discovery, causal inference, and translational bioinformatics, particularly in asthma, allergy, cancer, and other complex diseases.
+I am a Computational Biologist, Bioinformatician, and Biostatistician at Indiana University School of Medicine. My research focuses on statistical genetics, multi-omics integration, machine learning, and precision medicine.
 
-You can find more information about my research, publications, and academic activities on Google Scholar and LinkedIn.
+My interests include genomics, epigenomics, DNA methylation, eQTM and mQTL analysis, biomarker discovery, causal inference, and translational bioinformatics, with applications in asthma, allergy, cancer, and other complex diseases.
 
-My repositories represent current and past contributions in bioinformatics, biostatistics, genomics, multi-omics analysis, machine learning, and clinical research that I am able to share publicly.
+I develop and apply computational and statistical methods to integrate genomic, transcriptomic, epigenomic, microbiome, metabolomic, and clinical data to better understand disease mechanisms and improve patient outcomes.
 
-If you have questions about my work, would like to discuss collaborations, or cannot find a project I contributed to, feel free to contact me.
+My repositories contain selected research projects, bioinformatics pipelines, statistical workflows, and reproducible analyses in bioinformatics, biostatistics, genomics, machine learning, and multi-omics research.
 
-📧 Email: estu2003[at]gmail.com/edessie[at]iu.edu
+If you are interested in collaboration or have questions about my work, feel free to reach out.
 
-🔗 LinkedIn: https://www.linkedin.com/in/eskezeiadessie/
+📧 **Email:** estu2003@gmail.com | edessie@iu.edu
 
-🔗 Google Scholar: https://scholar.google.com/citations?user=NHxBY1EAAAAJ&hl=en.
+🔗 **LinkedIn:** https://www.linkedin.com/in/eskezeiadessie/
 
-🔗 GitHub: https://github.com/Eskezeia
+🔗 **Google Scholar:** https://scholar.google.com/citations?user=NHxBY1EAAAAJ&hl=en
+
+🔗 **GitHub:** https://github.com/Eskezeia
